@@ -1,0 +1,7 @@
+# Pastas
+node_modules/
+private/
+
+# Arquivos
+package.json
+package-lock.json
